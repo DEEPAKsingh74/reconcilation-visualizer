@@ -1,5 +1,6 @@
 # REACT RECONCILATION VISUALIZER 
-![.](public/favicon.svg)
+
+<img src="public/favicon.svg" width="50" />
 
 # Visit the Live Demo 🚀
 
@@ -9,6 +10,7 @@
 
 Home Screen
 ![](display/home_page.png)
+
 
 
 Updated Virtual DOM Tree
