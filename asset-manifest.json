@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DEEPAKsingh74/reconcilation-visualizer/static/css/main.9d76a3c9.css",
-    "main.js": "/DEEPAKsingh74/reconcilation-visualizer/static/js/main.affb39b4.js",
-    "index.html": "/DEEPAKsingh74/reconcilation-visualizer/index.html",
-    "main.9d76a3c9.css.map": "/DEEPAKsingh74/reconcilation-visualizer/static/css/main.9d76a3c9.css.map",
-    "main.affb39b4.js.map": "/DEEPAKsingh74/reconcilation-visualizer/static/js/main.affb39b4.js.map"
+    "main.css": "/reconcilation-visualizer/static/css/main.9d76a3c9.css",
+    "main.js": "/reconcilation-visualizer/static/js/main.a11ba61b.js",
+    "index.html": "/reconcilation-visualizer/index.html",
+    "main.9d76a3c9.css.map": "/reconcilation-visualizer/static/css/main.9d76a3c9.css.map",
+    "main.a11ba61b.js.map": "/reconcilation-visualizer/static/js/main.a11ba61b.js.map"
   },
   "entrypoints": [
     "static/css/main.9d76a3c9.css",
-    "static/js/main.affb39b4.js"
+    "static/js/main.a11ba61b.js"
   ]
 }
